@@ -9,9 +9,9 @@ This PDF is part of a working model
 combining biological behavior,
 oceanographic simulation, and
 AI-enhanced hotspot forecasting..
-![Alt text](images/Figure_005.png)
-![Alt text](images/MOROCCAN-COAST-05.PNG)
-![Alt text](images/SAFI-COAST-05.PNG)
+![Image](https://github.com/user-attachments/assets/1ee26920-c997-4c08-9026-041bd8af0a30)
+![Image](https://github.com/user-attachments/assets/ea608d74-b594-4fc3-8b11-c065474141ed)
+![Image](https://github.com/user-attachments/assets/0b43ee1d-c6c5-4f53-a068-a7f7c0fd1592)
 This document summarizes the environmental indicators and a custom-built Habitat
 Suitability Index (HSI) model for predicting optimal sardine aggregation areas along the
 Moroccan Atlantic coast.
